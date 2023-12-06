@@ -4,7 +4,8 @@ import (
 	// "github.com/Light2Dark/adventofcode-2023/day1"
 	// "github.com/Light2Dark/adventofcode-2023/day2"
 	// "github.com/Light2Dark/adventofcode-2023/day3"
-	"github.com/Light2Dark/adventofcode-2023/day4"
+	// "github.com/Light2Dark/adventofcode-2023/day4"
+	"github.com/Light2Dark/adventofcode-2023/day5"
 )
 
 func main() {
@@ -15,5 +16,7 @@ func main() {
 	// day2.Regex()
 	// day3.Run()
 	// day3.Run2()
-	day4.Run2()
+	// day4.Run2()
+	// day5.Run()
+	day5.Run2()
 }

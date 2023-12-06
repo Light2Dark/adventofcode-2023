@@ -5,3 +5,5 @@ Christmas-themed programming puzzles leading up to the Advent in GoLang!
 Day 1 ✔️ <br>
 Day 2 ✔️ <br>
 Day 3 ✔️ <br>
+Day 4 ✔️ <br>
+Day 5 ✔️ <br>
