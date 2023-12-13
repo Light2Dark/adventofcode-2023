@@ -12,7 +12,8 @@ import (
 	// "github.com/Light2Dark/adventofcode-2023/day9"
 	// "github.com/Light2Dark/adventofcode-2023/day10"
 	// "github.com/Light2Dark/adventofcode-2023/day11"
-	"github.com/Light2Dark/adventofcode-2023/day12"
+	// "github.com/Light2Dark/adventofcode-2023/day12"
+	"github.com/Light2Dark/adventofcode-2023/day13"
 )
 
 func main() {
@@ -38,5 +39,7 @@ func main() {
 	// day11.Run()
 	// day11.Run2()
 	// day12.Run()
-	day12.Run2()
+	// day12.Run2()
+	// day13.Run()
+	day13.Run2()
 }
