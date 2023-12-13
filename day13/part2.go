@@ -83,8 +83,6 @@ func hasReflectionRough(lines1 []string, lines2 []string) bool {
 	return mistakeCount == 1
 }
 
-// will be true only if the mistake count is 1 due to smudge,
-// 1 character will not be the same
 func getMistakeCount(line1, line2 string) int {
 	var mistakeCount int
 	line1Rune, line2Rune := []rune(line1), []rune(line2)
